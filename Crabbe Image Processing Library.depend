@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608837356 source:c:\users\aesas\desktop\c++ projects\crabbe image processing library\main.cpp
+	<iostream>
+	"ImageProcessing.h"
+
+1608854804 c:\users\aesas\desktop\c++ projects\crabbe image processing library\include\imageprocessing.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
+1608837112 source:c:\users\aesas\desktop\c++ projects\crabbe image processing library\src\imageprocessing.cpp
+	"ImageProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
